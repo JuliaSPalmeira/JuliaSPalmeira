@@ -35,16 +35,11 @@ I am a Systems Information student in my 6th semester, deeply passionate about B
 ### 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/julia-palmeira/" target="_blank" rel="noopener noreferrer">
-    <img src="https://shields.io" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/juliaspalmeira/" target="_blank" rel="noopener noreferrer">
-    <img src="https://shields.io" alt="Instagram" />
-  </a>
-  <a href="mailto:juliapalmeiracontato@gmail.com">
-    <img src="https://shields.io" alt="Email" />
-  </a>
+  <a href="https://www.linkedin.com/in/julia-palmeira/" target="_blank" rel="noopener noreferrer"><img src="https://shields.io" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/juliaspalmeira/" target="_blank" rel="noopener noreferrer"><img src="https://shields.io" alt="Instagram" /></a>
+  <a href="mailto:juliapalmeiracontato@gmail.com"><img src="https://shields.io" alt="Email" /></a>
 </p>
+
 
 ### 📊 GitHub Stats
 
